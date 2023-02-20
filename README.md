@@ -1,8 +1,5 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Gerador de QRcode </h1>
 
-<p align="center">
-NLw é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
